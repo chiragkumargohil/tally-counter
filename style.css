@@ -45,7 +45,7 @@ td input {
     border: none;
 }
 
-td input:hover {
+td input:active {
     background-color: brown;
     color: white;
     border-radius: 0.5rem;
